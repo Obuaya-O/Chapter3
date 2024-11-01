@@ -5,6 +5,9 @@ Here is the code used to form these datasets.
 
 This project was developed using a conda environment with Python version 3.11.9. To replicate the environment and install the required packages, the following steps are required:
 
-Create conda environment: conda create -n myenv python=3.11.9
-Activate the environment: conda activate myenv
-Install the relevant packages: conda install --file requirements.txt
+## Create conda environment: 
+conda create -n myenv python=3.11.9
+## Activate the environment: 
+conda activate myenv
+## Install the relevant packages: 
+conda install --file requirements.txt
